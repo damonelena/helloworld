@@ -1,0 +1,11 @@
+eksctl create cluster --name eksctl-test --nodegroup-name ng-default --node-type t3.micro --nodes 2
+in cloud conformation u can check
+eksctl get nodegroup --cluster=eksctl-test
+eksctl create cluster --config-file=cluster.yaml
+eksctl get cluster
+eksctl delete cluster --name=eksctl-test
+can upgarde the node gruop name
+helm repo add stable https://charts.helm.sh/stable
+helm pull bitnami/nginx --untar=true
+
+GIT
