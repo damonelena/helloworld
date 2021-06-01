@@ -10,4 +10,9 @@ helm pull bitnami/nginx --untar=true
 chandu
 GIT
 ansuha mahesh
+<<<<<<< HEAD
 somababu subbalakshmi
+=======
+
+ffffff
+>>>>>>> d0af2f1188d1f00555d62efbc79e56524bddb135
