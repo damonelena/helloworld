@@ -10,3 +10,4 @@ helm pull bitnami/nginx --untar=true
 chandu
 GIT
 ansuha mahesh
+somababu subbalakshmi
